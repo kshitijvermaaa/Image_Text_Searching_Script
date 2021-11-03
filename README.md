@@ -5,8 +5,10 @@ This project was made by me when I was facing problem in finding an image which 
 
 ##################### REQUIRED MODULES #####################
 
---Tkinter -- For making GUI
---PyTesseract -- Image Text Reader
+--Tkinter -- For making GUI.
+
+
+--PyTesseract -- Image Text Reader.
 
 ##################### BASIC WORKING #####################
 ![Image_Gallery](https://user-images.githubusercontent.com/79077186/140190096-290e0c90-5a6e-4314-a3e7-6511d5649ecd.PNG)
