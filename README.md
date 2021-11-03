@@ -15,7 +15,7 @@ This project was made by me when I was facing problem in finding an image which 
 --PyTesseract -- Image Text Reader.
 
 ##################### BASIC WORKING #####################
-![Image_Gallery](https://user-images.githubusercontent.com/79077186/140190096-290e0c90-5a6e-4314-a3e7-6511d5649ecd.PNG)
+![Image_Gallery](https://user-images.githubusercontent.com/79077186/140190096-290e0c90-5a6e-4314-a3e7-6511d5649ecd.PNG | width=100)
 
 
 We have an Image gallery where there are lots of pictures and in one of them Datacamp is written. For this case we are using datacamp as an example and we are going to find this image from the batch of images.
